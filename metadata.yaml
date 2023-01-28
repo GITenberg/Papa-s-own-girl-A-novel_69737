@@ -1,11 +1,16 @@
 _repo: Papa-s-own-girl-A-novel_69737
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69737-h/images/cover.jpg
 creator:
   author:
     agent_name: Howland, Marie
     gutenberg_agent_id: '55396'
     url: http://www.gutenberg.org/2009/agents/55396
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69737#Papa-s-own-girl-A-novel
 gutenberg_issued: '2023-01-07'
 identifiers:
   gutenberg: '69737'
